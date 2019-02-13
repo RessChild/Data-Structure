@@ -37,7 +37,7 @@ public class No1520 {
 		// *** 계산지점
 		
 		System.out.println(Stair(vertical, horizon));	
-		
+		sc.close();
 	}
 
 	public No1520() {
